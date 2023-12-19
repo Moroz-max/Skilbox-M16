@@ -1,4 +1,1 @@
 test
-
-
-after init commit
